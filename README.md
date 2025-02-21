@@ -6,6 +6,9 @@ A React component that displays a grid of files with selection and download capa
 - Download functionality for available items only
 - Status indicators with visual feedback
 
+## Deployed URL
+https://datagrid-phi.vercel.app/
+
 ## Getting Started
 
 ### Prerequisites
