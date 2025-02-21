@@ -1,0 +1,28 @@
+.row {
+  display: flex;
+  padding: 0.5rem;
+  border-bottom: 1px solid #eee;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.checkbox-cell {
+  width: 40px;
+}
+
+.cell {
+  flex: 1;
+}
+
+.path-cell {
+  flex: 2;
+}
+
+.status {
+  text-transform: capitalize;
+}
+
+.status-dot {
+  color: limegreen;
+}
