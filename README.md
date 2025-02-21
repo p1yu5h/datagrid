@@ -50,4 +50,6 @@ Other test commands:
 - Run tests with UI: `npm run test:ui`
 - Run tests with coverage: `npm run test:coverage`
 
+## Screenshot
+<img width="1440" alt="Screenshot 2025-02-21 at 11 00 20 PM" src="https://github.com/user-attachments/assets/e48e9cc4-1063-48c0-9cca-432cd4b7a730" />
 
